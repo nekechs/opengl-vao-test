@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -fsanitize=address,undefined -Wall CMakeFiles/index_buffer.dir/main.c.o CMakeFiles/index_buffer.dir/shaderparse.c.o -o index_buffer  /usr/lib64/libglfw.so.3.3 -lGLEW utils/libutils.a /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a CMakeFiles/utils.dir/fileio.c.o CMakeFiles/utils.dir/linkedlist.c.o CMakeFiles/utils.dir/gl-debug.c.o
+/usr/bin/ranlib libutils.a

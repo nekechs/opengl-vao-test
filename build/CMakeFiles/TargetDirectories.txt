@@ -1,0 +1,6 @@
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/CMakeFiles/vert_array.dir
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/CMakeFiles/edit_cache.dir
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/CMakeFiles/rebuild_cache.dir
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/utils/CMakeFiles/utils.dir
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/utils/CMakeFiles/edit_cache.dir
+/home/jamunk/Dev/OpenGL-projects/cherno_tutorial/vao/build/utils/CMakeFiles/rebuild_cache.dir

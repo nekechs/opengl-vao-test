@@ -1,0 +1,1 @@
+add_library(utils STATIC fileio.c linkedlist.c gl-debug.c)

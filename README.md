@@ -1,2 +1,2 @@
 # opengl-vao-test
-bruh
+Test repo for OpenGL Vertex Array Object (VAO)
